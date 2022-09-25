@@ -1,5 +1,5 @@
 # webassembly-tutorial
- Tutorial on using WebAssembly
+ Tutorial on using WebAssembly (https://www.youtube.com/playlist?list=PLysLvOneEETPM_YbEyZcJ35_3pSdrj33O)
 
 ## Installation
 [Installation guide](https://emscripten.org/docs/getting_started/downloads.html#sdk-download-and-install)
